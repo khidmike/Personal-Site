@@ -1,0 +1,19 @@
+#header {
+  width: auto;
+  float: right;
+}
+
+td {
+  padding: 10px;
+}
+
+head {
+  padding-bottom: 20px;
+}
+
+#footer {
+  width: auto;
+  float: right;
+  position: absolute;
+  bottom: 0;
+}
