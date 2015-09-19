@@ -30,9 +30,12 @@ a {
   height: auto;
   float: right;
 }
-#bold {
-  font-weight: bolder;
+
+#icon img {
+  width: 35px;
+  height: auto;
 }
 
 body {
+  background-color: 66CCCC;
 }
