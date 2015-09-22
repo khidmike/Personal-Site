@@ -10,10 +10,15 @@ a {
   text-decoration: none;
 }
 
-li {
+.text, li {
   list-style-type: none;
   padding-bottom: 7px;
   font-family: Skia, Arial;
+}
+
+.text {
+  line-height: 20px;
+  text-align: justify;
 }
 
 #footer {
@@ -37,9 +42,10 @@ li {
 }
 
 .photo img {
-  width: 350px;
+  width: 400px;
   height: auto;
   float: right;
+  padding-left: 15px;
 }
 
 #icon img {
