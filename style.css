@@ -1,6 +1,13 @@
-td {
+.project{
   padding: 20px;
-  white-space:nowrap;
+  max-width: 100%;
+  white-space: normal;
+}
+
+.top {
+  padding: 20px;
+  max-width: 100%;
+  white-space: nowrap;
 }
 
 a {
@@ -38,7 +45,7 @@ a {
 }
 
 #heading {
-  color: green;
+  color: indigo;
 }
 
 .photo img {
@@ -46,6 +53,11 @@ a {
   height: auto;
   float: right;
   padding-left: 15px;
+}
+
+#hiking img {
+  width: 300px;
+  height: auto;
 }
 
 #icon img {
