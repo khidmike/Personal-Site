@@ -2,6 +2,7 @@
   padding: 20px;
   max-width: 100%;
   white-space: normal;
+  color: white;
 }
 
 .top {
@@ -11,7 +12,7 @@
 }
 
 a {
-  color: white;
+  color: 33FFCC;
   font-style: italic;
   font-size: 18;
   text-decoration: none;
@@ -26,6 +27,7 @@ a {
 .text {
   line-height: 20px;
   text-align: justify;
+  color: white;
 }
 
 #footer {
@@ -39,13 +41,14 @@ a {
   margin-bottom: 20px;
   margin-right: -8px;
   padding-left: 100%;
-  background-color: 660000;
+  background-color: FF6600;
   min-width: auto;
   float: right;
 }
 
 #heading {
-  color: indigo;
+  color: 333399;
+  font-family: baskerville, serif;
 }
 
 .photo img {
@@ -58,6 +61,7 @@ a {
 #hiking img {
   width: 300px;
   height: auto;
+  margin-top: -45px;
 }
 
 #icon img {
@@ -66,5 +70,5 @@ a {
 }
 
 body {
-  background-color: 66CCCC;
+  background-color: FF6600;
 }
