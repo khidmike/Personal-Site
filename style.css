@@ -13,13 +13,13 @@
 
 a {
   color: 33FFCC;
-  font-style: italic;
   font-size: 18;
   text-decoration: none;
 }
 
 .text, li {
   list-style-type: none;
+  color: white;
   padding-bottom: 7px;
   font-family: Skia, Arial;
 }
@@ -67,6 +67,7 @@ a {
 #icon img {
   width: 35px;
   height: auto;
+  padding-right: 15px;
 }
 
 body {
