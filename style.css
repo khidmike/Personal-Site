@@ -1,8 +1,11 @@
-.project{
+.project, .project_desc {
   padding: 20px;
   max-width: 100%;
   white-space: normal;
   color: white;
+  font-family: Skia, Arial;
+  line-height: 125%;
+
 }
 
 .top {
@@ -48,7 +51,9 @@ a {
 
 #heading {
   color: 333399;
-  font-family: baskerville, serif;
+  font-family: Skia, Arial;
+  font-style: italic;
+  margin-bottom: 50px;
 }
 
 .photo img {
